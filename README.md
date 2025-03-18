@@ -4,14 +4,18 @@
 
 ## 기능 소개
 
-
- ● Screenshot
+- 실시간 CCTV 스트림 모니터링
 
 ![Realtime_Outside_Weather Tool Screenshot](Realtime_Outside_weather_ofMyHome.png)
 
-- 실시간 CCTV 스트림 모니터링
 - 비디오 녹화 및 저장 기능
+
+![Realtime_Outside_Weather Tool Screenshot](Realtime_Outside_weather_ofMyHome_record.png)
+
 - 좌우 반전 모드 지원
+
+![Realtime_Outside_Weather Tool Screenshot](Realtime_Outside_weather_ofMyHome_flip.png)
+
 - 사용자 친화적인 키보드 단축키
 - 녹화 상태 시각적 표시
 - 다양한 비디오 형식(MP4, AVI) 지원
