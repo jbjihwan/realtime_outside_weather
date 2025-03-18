@@ -3,7 +3,10 @@
 실시간 CCTV 스트림을 통해 외부 날씨를 모니터링하고 녹화할 수 있도록 OpenCV를 통해 구현한 간단한 Python 애플리케이션입니다.
 
 ## 기능 소개
+
+
  ● Screenshot
+
 ![Realtime_Outside_Weather Tool Screenshot](Realtime_Outside_weather_ofMyHome.png)
 
 - 실시간 CCTV 스트림 모니터링
